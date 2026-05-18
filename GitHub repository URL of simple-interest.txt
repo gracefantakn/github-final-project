@@ -1,0 +1,1 @@
+This is the link of GitHub repository URL of simple-interest : https://github.com/gracefantakn/github-final-project/blob/main/simple-interest.sh
